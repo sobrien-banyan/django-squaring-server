@@ -6,7 +6,7 @@ this server works with https://github.com/sobrien-banyan/simple-frontend
 ## To start app run the following:
 in root directory
 1. install venv run `python3 -m venv venv`
-2. activate venv run `venv/bin/activate`
+2. activate venv run `source venv/bin/activate` or `. venv/bin/activate`
 3. to start server in django-squaring-server/squaring_api `python3 manage.py runserver`
 
 
